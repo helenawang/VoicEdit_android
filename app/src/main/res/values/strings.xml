@@ -17,7 +17,7 @@
     <string name="gender_hint">性别</string>
 
     <!--科大讯飞语音识别的app id-->
-    <string name="app_id">597fe4ca</string>
+    <string name="app_id">YOUR APP ID</string>
     <string name="text_begin">请开始说话</string>
     <string name="button_start">语音录入</string>
     <string name="tips_1">tips: 此表单只有“胰岛素剂量”和“血糖值”两栏支持语音录入; “时间”和“状态”两栏请手动录入</string>
