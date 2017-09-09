@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etName_1" type="id">姓名</item>
+    <item name="etName_2" type="id">年龄</item>
+    <item name="etName_3" type="id">性别</item>
+    <item name="etName_4" type="id">沉默项</item>
+
+    <item name="filename" type="string">blood_glucose_record.txt</item>
+</resources>

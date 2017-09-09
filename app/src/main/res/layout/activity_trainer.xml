@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#ffffff"
+                android:gravity="center"
+                tools:context="com.dear.voice.test.VoiceRecordActivity" >
+    <LinearLayout
+        android:id="@+id/mic_linearlayouut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        >
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_mic"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="43dp"
+        android:background="@drawable/mic_up"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/vervif_prompt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_mic"
+        android:layout_centerHorizontal="true"
+        android:text="按住说话"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tv_verify_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:textColor="@android:color/black"
+        android:textSize="40sp" />
+
+</RelativeLayout>

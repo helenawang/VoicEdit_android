@@ -1,0 +1,27 @@
+<resources>
+    <string name="sys_version"></string>
+    <string name="app_name">VoicEdit_android</string>
+    <string name="app_version">0.1.0</string>
+    <string name="next">下一步</string>
+    <string name="title_login">身份验证页</string>
+    <string name="signin_button">声纹登录</string>
+    <string name="signup_button">声纹预留</string>
+    <string name="username">请输入用户名</string>
+
+    <string name="btn_mic">按住说话</string>
+    <string name="pass_say">按住说话</string>
+    <string name="loosen_end">松开结束</string>
+
+    <string name="name_hint">姓名</string>
+    <string name="age_hint">年龄</string>
+    <string name="gender_hint">性别</string>
+
+    <!--科大讯飞语音识别的app id-->
+    <string name="app_id">597fe4ca</string>
+    <string name="text_begin">请开始说话</string>
+    <string name="button_start">语音录入</string>
+    <string name="tips_1">tips: 此表单只有“胰岛素剂量”和“血糖值”两栏支持语音录入; “时间”和“状态”两栏请手动录入</string>
+    <string name="warn_1">warn: 点击“保存”后，本页内容会以JSON格式追加到本地的blood_glucose_record.txt文件中</string>
+    <string name="tips_login">tips: 如首次使用或希望重新录入声纹，请选择“声纹预留”； 如已预留过声纹，请选择“声纹登录”完成身份验证</string>
+    <string name="support_dear">p.s: 声纹身份验证功能由“得意音通技术(d-ear.com)”提供支持</string>
+</resources>

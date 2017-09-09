@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="states">
+        <item>空腹</item>
+        <item>饭后一小时</item>
+        <item>饭后两小时</item>
+        <item>饭后三小时</item>
+        <item>夜间</item>
+    </string-array>
+</resources>
